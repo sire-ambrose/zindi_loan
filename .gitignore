@@ -1,7 +1,7 @@
-SampleSubmission.csv
-testdemographics.csv
-traindemographics.csv
-testperf.csv
-trainperf.csv
-testprevloans.csv
-trainprevloans.csv
+loan_default/SampleSubmission.csv
+loan_default/testdemographics.csv
+loan_default/traindemographics.csv
+loan_default/testperf.csv
+loan_default/trainperf.csv
+loan_default/testprevloans.csv
+loan_default/trainprevloans.csv
